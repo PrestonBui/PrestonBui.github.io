@@ -1,0 +1,36 @@
+---
+title: "Preston Bui"
+output:
+  html_document:
+    theme: flatly
+    toc: false
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+```
+
+# Hi, I'm Preston
+
+Hi, I’m Preston! I’m a junior at UT Austin studying Statistics & Data Science with a minor in Computer Science and Sports Analytics. I’m really interested in sports, tech, and finding fun ways to mix the two. Outside of classes, I like working on side projects, hanging out with friends, and exploring Austin whenever I get the chance.
+
+**My GitHub:** <https://github.com/PrestonBui>
+
+![](/Users/prestonbui/Downloads/profilepicture.jpeg){width=320px}
+
+## My Favorite Hobbies  
+
+- 🏓 Playing pickleball  
+- ♠️ Poker nights with friends  
+- 🏋️‍♂️ Weightlifting and staying active  
+- 🎮 Playing video games  
+- 🍣 Eating out and trying new restaurants  
+
+
+---
+
+*This website was built at:*  
+```{r echo = FALSE}
+Sys.time()
+```
