@@ -31,7 +31,4 @@ Hi, I’m Preston! I’m a junior at UT Austin studying Statistics & Data Scienc
 
 ---
 
-*This website was built at:*  
-```{r echo = FALSE}
-build_time
-```
+*This website was built at: * `r build_time`
